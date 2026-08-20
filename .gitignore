@@ -1,1 +1,5 @@
-*exe
+# 编译产物
+toy
+lexer
+*.exe
+*.o
